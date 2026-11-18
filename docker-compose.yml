@@ -1,0 +1,51 @@
+version: "3.9"
+
+networks:
+  # Worker is on internal_net only — no external internet access
+  internal_net:
+    internal: true
+  # Grader is also on external_net so it can reach the Groq API
+  external_net:
+    internal: false
+
+services:
+  worker:
+    build: .
+    command: python3 -m pyfix.worker
+    networks:
+      - internal_net
+    # Worker has NO hidden/ mount — filesystem isolation is enforced here.
+    # Resource limits (standalone Compose syntax, no Swarm required):
+    mem_limit: 256m
+    cpus: "0.5"
+    ulimits:
+      nproc: 50
+    healthcheck:
+      test:
+        - "CMD"
+        - "python3"
+        - "-c"
+        - "import urllib.request; urllib.request.urlopen('http://localhost:5001/health')"
+      interval: 2s
+      timeout: 3s
+      retries: 10
+      start_period: 5s
+
+  grader:
+    build: .
+    # grader runs as root so it can write to logs/ (override the non-root default)
+    user: root
+    volumes:
+      - ./hidden:/app/hidden:ro
+      - ./logs:/app/logs
+    networks:
+      - internal_net
+      - external_net
+    env_file:
+      - .env
+    environment:
+      - PYFIX_WORKER_URL=http://worker:5001
+      - PYFIX_HIDDEN_DIR=/app/hidden
+    depends_on:
+      worker:
+        condition: service_healthy

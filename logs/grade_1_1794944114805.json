@@ -1,0 +1,121 @@
+{
+  "task_id": 1,
+  "reward": 1.0,
+  "tests_passed": 28,
+  "tests_total": 28,
+  "per_test": [
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    }
+  ],
+  "timestamp": "2026-11-17T19:35:14Z"
+}

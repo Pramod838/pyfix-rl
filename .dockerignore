@@ -1,0 +1,11 @@
+hidden/
+.env
+*.pyc
+__pycache__/
+.git/
+.gitignore
+*.egg-info/
+dist/
+logs/
+.venv/
+venv/

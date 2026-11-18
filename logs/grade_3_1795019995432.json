@@ -1,0 +1,138 @@
+{
+  "task_id": 3,
+  "reward": 0.0,
+  "passed": false,
+  "tests_passed": 12,
+  "tests_total": 32,
+  "per_test": [
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length"
+    }
+  ],
+  "timestamp": "2026-11-18T16:39:55Z"
+}

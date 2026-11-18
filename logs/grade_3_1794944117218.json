@@ -1,0 +1,121 @@
+{
+  "task_id": 3,
+  "reward": 0.0,
+  "tests_passed": 8,
+  "tests_total": 28,
+  "per_test": [
+    {
+      "passed": false,
+      "error": "Wrong output length: got 5, expected 3"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 5, expected 3"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 3, expected 2"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 4, expected 3"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 3, expected 1"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 2, expected 1"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 15, expected 12"
+    },
+    {
+      "passed": false,
+      "error": "Wrong output length: got 15, expected 12"
+    }
+  ],
+  "timestamp": "2026-11-17T19:35:17Z"
+}

@@ -1,0 +1,121 @@
+{
+  "task_id": 1,
+  "reward": 0.0,
+  "tests_passed": 0,
+  "tests_total": 28,
+  "per_test": [
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    },
+    {
+      "passed": false,
+      "error": "FileNotFoundError: Cannot read /app/hidden/suite_task1.py \u2014 /app/hidden not mounted"
+    }
+  ],
+  "timestamp": "2026-11-17T19:33:37Z"
+}

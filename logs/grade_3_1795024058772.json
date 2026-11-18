@@ -1,0 +1,139 @@
+{
+  "task_id": 3,
+  "reward": 0.0,
+  "passed": false,
+  "error_summary": "TypeError: element 0 must be float, got int",
+  "tests_passed": 12,
+  "tests_total": 32,
+  "per_test": [
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": false,
+      "error": "TypeError: element 0 must be float, got int"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    },
+    {
+      "passed": false,
+      "error": "Wrong values"
+    }
+  ],
+  "timestamp": "2026-11-18T17:47:38Z"
+}

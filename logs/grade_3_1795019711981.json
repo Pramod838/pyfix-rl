@@ -1,0 +1,138 @@
+{
+  "task_id": 3,
+  "reward": 0.0,
+  "passed": false,
+  "tests_passed": 28,
+  "tests_total": 32,
+  "per_test": [
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": false,
+      "error": "Expected ValueError for invalid window"
+    },
+    {
+      "passed": false,
+      "error": "Expected ValueError for invalid window"
+    },
+    {
+      "passed": false,
+      "error": "Expected ValueError for invalid window"
+    },
+    {
+      "passed": false,
+      "error": "Expected ValueError for invalid window"
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    },
+    {
+      "passed": true,
+      "error": ""
+    }
+  ],
+  "timestamp": "2026-11-18T16:35:11Z"
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": 4,
+  "reward": 0.0,
+  "passed": false,
+  "error_summary": "SyntaxError: invalid syntax (<unknown>, line 1)",
+  "tests_passed": 0,
+  "tests_total": 0,
+  "per_test": [
+    {
+      "passed": false,
+      "error": "SyntaxError: invalid syntax (<unknown>, line 1)"
+    }
+  ],
+  "timestamp": "2026-11-18T17:47:04Z"
+}

@@ -1,0 +1,260 @@
+{
+  "task_id": 4,
+  "reward": 0.33,
+  "passed": false,
+  "tests_passed": 25,
+  "tests_total": 50,
+  "per_test": [
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 3,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 3,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": "IndexError: list index out of range"
+    }
+  ],
+  "timestamp": "2026-11-18T16:36:54Z"
+}

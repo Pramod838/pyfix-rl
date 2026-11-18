@@ -1,0 +1,261 @@
+{
+  "task_id": 4,
+  "reward": 0.34,
+  "passed": false,
+  "error_summary": "",
+  "tests_passed": 44,
+  "tests_total": 50,
+  "per_test": [
+    {
+      "category": 1,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": false,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 3,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 1,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    },
+    {
+      "category": 2,
+      "passed": true,
+      "error": ""
+    }
+  ],
+  "timestamp": "2026-11-18T17:47:39Z"
+}
